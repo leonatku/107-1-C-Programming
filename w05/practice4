@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+int N,answer;
+printf("Enter N:");
+scanf("%d",&N);
+answer=(N%1000%100/10)*1000+(N%1000%100%10)*100+((N/1000+5)%10)*10+(N%1000/100);
+printf("encode(%d)=%d\n",N,answer);
+return 0;
+}
