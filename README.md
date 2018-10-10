@@ -17,4 +17,15 @@ W03
 
 W04
 *Main menu.cpp
+*menu2.cpp
+*sum(fun).cpp
+
+w05
+*menu3.cpp
+*practice1.cpp
+*practice2.cpp
+*practice3.cpp
+*practice4.cpp
+*practice5.cpp
+*Four Vertical Triangles.cpp
 
