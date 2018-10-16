@@ -1,5 +1,9 @@
 # 107-1-C-Programming
 
+
+課後練習
+*Four Vertical Triangles.cpp
+
 W01
 *welcome.cpp
 *Temperture Convert.cpp
@@ -27,5 +31,8 @@ w05
 *practice3.cpp
 *practice4.cpp
 *practice5.cpp
-*Four Vertical Triangles.cpp
+
+w06
+*days passed since Jan 1 of specific year.cpp
+*sorting an array.cpp
 
