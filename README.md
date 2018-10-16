@@ -1,8 +1,13 @@
 # 107-1-C-Programming
 
 
-課後練習
+Practice after class
 *Four Vertical Triangles.cpp
+*test practice 1.cpp
+*test practice 2.cpp
+*test practice 3.cpp
+*test practice 4.cpp
+*test practice 5.cpp
 
 W01
 *welcome.cpp
@@ -26,11 +31,6 @@ W04
 
 w05
 *menu3.cpp
-*practice1.cpp
-*practice2.cpp
-*practice3.cpp
-*practice4.cpp
-*practice5.cpp
 
 w06
 *days passed since Jan 1 of specific year.cpp
