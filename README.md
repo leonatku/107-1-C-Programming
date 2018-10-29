@@ -39,6 +39,9 @@ W06
 W07
 *sum(n), rsum(n).cpp
 *sumodd1(n), sumodd2(n).cpp
+*Hanoi tower -- six functions.cpp
+*Fib(n) 費氏級數.cpp
+*rgcd(a,b) & gcd(a,b), a<=b.cpp
 
 W08
 *魔方陣 -- magic_diag(m, N), magic_knight(m, N).cpp
