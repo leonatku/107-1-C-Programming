@@ -36,3 +36,11 @@ w06
 *days passed since Jan 1 of specific year.cpp
 *sorting an array.cpp
 
+w07
+*sum(n), rsum(n).cpp
+*sumodd1(n), sumodd2(n).cpp
+
+
+
+
+
