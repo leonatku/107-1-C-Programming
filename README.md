@@ -29,18 +29,19 @@ W04
 *menu2.cpp
 *sum(fun).cpp
 
-w05
+W05
 *menu3.cpp
 
-w06
+W06
 *days passed since Jan 1 of specific year.cpp
 *sorting an array.cpp
 
-w07
+W07
 *sum(n), rsum(n).cpp
 *sumodd1(n), sumodd2(n).cpp
 
-
+W08
+*魔方陣 -- magic_diag(m, N), magic_knight(m, N).cpp
 
 
 
