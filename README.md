@@ -51,9 +51,14 @@ Enter seconds: 20000
 ```
 ## W03
 [*Leap year (while).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/Leap%20year%20using%20while%20loop)
+```
+```
 [*Seconds (while).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/seconds%20(while)%20.cpp)
-[*sum(n1,n2).cpp]
-[*BMI.cpp]
+```
+```
+[*sum(n1,n2).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/sum%20(n1%2Cn2).cpp)
+```
+[*BMI.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/BMI.cpp)
 
 W04
 *Main menu.cpp
@@ -80,6 +85,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NTgxNTY3LDEwNTMyMTcyNjEsLTE3OT
+eyJoaXN0b3J5IjpbMzE0MzYyNTk3LDEwNTMyMTcyNjEsLTE3OT
 M3MDg5MDldfQ==
 -->
