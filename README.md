@@ -109,8 +109,17 @@ Your BMI=25.7
 
 ## W04
 [*Main menu.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/Main%20Menu)
+```
+Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 1 Enter height and width: 5 8 ******** * * * * * * ******** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 1 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 2 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 3 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
+```
 *[menu2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/menu2)
-[*sum(fun).cpp](
+```
+
+```
+[*sum(fun).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/sum%20(fucn).cpp)
+```
+
+```
 
 W05
 *menu3.cpp
@@ -132,6 +141,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI1OTE4MzYsMzA4NjQxNDYxLDEwNT
-MyMTcyNjEsLTE3OTM3MDg5MDldfQ==
+eyJoaXN0b3J5IjpbMjk1MTIyMzE3LDMwODY0MTQ2MSwxMDUzMj
+E3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
