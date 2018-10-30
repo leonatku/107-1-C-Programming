@@ -104,14 +104,13 @@ Your BMI=20.3
 Enter your height:165
 Enter your weight:70
 Your BMI=25.7
-
-
+您的體重過重!
 ```
 
-W04
-*Main menu.cpp
-*menu2.cpp
-*sum(fun).cpp
+## W04
+[*Main menu.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/Main%20Menu)
+*[menu2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/menu2)
+[*sum(fun).cpp](
 
 W05
 *menu3.cpp
@@ -133,6 +132,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzA4NjA1NSwzMDg2NDE0NjEsMTA1Mz
-IxNzI2MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbLTEwNzI1OTE4MzYsMzA4NjQxNDYxLDEwNT
+MyMTcyNjEsLTE3OTM3MDg5MDldfQ==
 -->
