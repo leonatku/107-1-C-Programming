@@ -11,12 +11,13 @@ Practice after class
 
 ## W01
 [*welcome.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/Welcome.cpp)
+''''
 
-[*Temperture Convert.cpp](
-https://github.com/leonatku/1071-C-Programming/blob/master/w01/temconvert.cpp)
+[*Temperture Convert.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/temconvert.cpp)
+
 [*Equations.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/Equations.cpp)
 
-W02
+## W02
 *Leap year.cpp
 *Seconds convert to hh:mm:ss.cpp
 
@@ -51,6 +52,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5NTUyNSwxMDUzMjE3MjYxLC0xNzkzNz
-A4OTA5XX0=
+eyJoaXN0b3J5IjpbLTI3NjQzMjQ0NywxMDUzMjE3MjYxLC0xNz
+kzNzA4OTA5XX0=
 -->
