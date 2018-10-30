@@ -92,7 +92,8 @@ Enter n1 n2: -1 -1
 [*BMI.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/BMI.cpp)
 ```
 Enter your height:156
-
+Enter your weight:45
+Your BMI=
 ```
 
 W04
@@ -120,6 +121,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzk3ODMxNywzMDg2NDE0NjEsMTA1Mz
+eyJoaXN0b3J5IjpbMjExOTI3NjMzNSwzMDg2NDE0NjEsMTA1Mz
 IxNzI2MSwtMTc5MzcwODkwOV19
 -->
