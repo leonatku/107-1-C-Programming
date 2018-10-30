@@ -1,6 +1,6 @@
 ＃歡迎來到StackEdit！
 
-嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果你想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         *文件瀏覽器**來創建新文件。
+嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果你想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 *文件瀏覽器**來創建新文件。
 
 
 ＃文件
@@ -30,117 +30,117 @@ StackEdit存儲您的文件在您的瀏覽器，這意味著您的所有文件�
 
 ＃同步
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+同步是StackEdit的最大特色之一。它使您可以將工作區中的任何文件與存儲在** Google Drive **，** Dropbox **和** GitHub **帳戶中的其他文件同步。這使您可以繼續在其他設備上書寫，與共享文件的人協作，輕鬆集成到您的工作流程中......同步機制在後台每分鐘進行一次，下載，合併和上傳文件修改。
 
-There are two types of synchronization and they can complement each other:
+有兩種類型的同步，它們可以相互補充：
 
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-
-## Open a file
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
-
-## Save a file
-
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
+- 工作區同步將自動同步所有文件，文件夾和設置。這將允許您在任何其他設備上獲取工作區。	> 要開始同步工作區，只需在菜單中使用Google登錄即可。- 文件同步將使工作區的一個文件與** Google Drive **，** Dropbox **或** GitHub **中的一個或多個文件同步。	> 在開始同步文件之前，您必須在** Synchronize **子菜單中鏈接一個帳戶。
 
 
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
 
 
-# Markdown extensions
 
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
+## 打開一個文件
 
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
+您可以從打開文件**谷歌驅動器**，** Dropbox的**或** GitHub的**通過打開**同步**子菜單，然後點擊**從打開**。在工作區中打開後，文件中的任何修改都將自動同步。
+
+## 保存文件
+
+您可以保存工作區中的任何文件**谷歌驅動器**，** Dropbox的**或** GitHub的**通過打開**同步**子菜單，然後點擊**節省**。即使工作區中的文件已同步，您也可以將其保存到其他位置.StackEdit可以將一個文件與多個位置和帳戶同步。
+
+## 同步文件
+
+一旦您的文件鏈接到同步位置，StackEdit將通過下載/上傳任何修改定期同步它。如有必要，將執行合併，並解決衝突。
+
+如果您剛剛修改了文件並想要強制同步，請單擊導航欄中的**立即同步**按鈕。
+
+> **注：**的**立即同步**按鈕是無效的，如果你沒有文件同步。 
+
+## 管理文件同步
+
+由於一個文件可以與多個位置進行同步，你可以列出並通過單擊管理同步位置**文件同步**的**同步**子菜單。這允許您列出和刪除鏈接到您的文件的同步位置。
+
+
+＃出版
+
+在StackEdit中發布使您可以輕鬆地在線發布文件。一旦您對文件感到滿意，您就可以將其發佈到不同的託管平台，例如** Blogger **，** Dropbox **，** Gist **，** GitHub **，** Google Drive **，*   * WordPress **和** Zendesk **。使用[Handlebars templates]（http://handlebarsjs.com/ ），您可以完全控制導出的內容。
+
+> 在開始發布之前，您必須在**發布**子菜單中鏈接一個帳戶。
+
+## 發布文件
+
+您可以通過打開**發布**子菜單並單擊**發布到**來發布文件對於某些位置，您可以選擇以下格式：
+
+- Markdown：在可以解釋它的網站上發布Markdown文本（例如** GitHub **）， -  HTML：通過Handlebars模板（例如在博客上）發布轉換為HTML的文件。
+
+
+## 更新出版物
+
+發布後，StackEdit會將您的文件鏈接到該出版物，以便您輕鬆重新發布。修改文件並想要更新出版物後，單擊導航欄中的**立即發布**按鈕。
+
+> **注意：**如果您的文件尚未發布，則**現在**發布**按鈕被禁用。 
+
+## 管理文件發布
+
+由於一個文件可以被發布到多個位置，你可以列出和管理通過點擊發布位置**文件發布**的**發布**子菜單。這允許您列出和刪除鏈接到您的文件的發布位置。
+
+
+＃降價擴展
+
+StackEdit通過添加額外的** Markdown擴展**擴展了標準Markdown語法，為您提供了一些不錯的功能。
+
+> ** ProTip：**您可以在**文件屬性**對話框中禁用任何** Markdown擴展**。 
 
 
 ## SmartyPants
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+聰明的傢伙將ASCII標點符號轉換為“智能”排版標點符號HTML實體例如：。
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+| | ASCII | HTML | | ---------------- | ------------------------------- | ----------------------------- | | 單反手| “？這不是很有趣嗎” ` | “這不好玩嗎？”| | 行情| ` “這不是好玩的？” ` | “這不好玩嗎？”| | 破折號| ` - 是短破折號，---是破折號`|  - 是短劃線，---是em-dash |                
+
+            
+            
+
 
 
 ## KaTeX
 
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
+您可以使用[KaTeX]（https://khan.github.io/KaTeX/ ）渲染LaTeX數學表達式：
 
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+在*伽瑪功能*滿足$ \伽瑪（ñ）=（N-1）！\ quad \ forall n \ in \ mathbb N $是通過Euler積分
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+$$                                          \ Gamma（z）= \ int _0 ^ \ infty t ^ { z-1 } e ^ { -t } dt \ ,. $$
 
 
-## UML diagrams
 
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+> 您可以在[此處]（http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference ）找到有關** LaTeX **數學表達式的更多信息。
 
-```美人魚
-序列
-圖表愛麗絲 -  >>鮑勃：你好鮑勃，你好嗎？
-鮑勃 -  >>約翰：約翰，你呢？
-鮑勃 -  x愛麗絲：我很感謝！
-Bob-x John：我很感謝！
-注意約翰的權利：鮑勃認為很長很長一段時間，因為文本不適合連續。鮑勃 - >愛麗絲：和約翰一起檢查......愛麗絲 - > 約翰：是的......約翰，你好嗎？```
+
+## UML圖
+
+您可以使用[Mermaid]（https://mermaidjs.github.io/ ）呈現UML圖表。例如，這將生成一個序列圖：
+
+`                       ` `美人魚序列圖表愛麗絲 -  >>鮑勃：你好鮑勃，你好嗎？鮑勃 -  >>約翰：約翰，你呢？鮑勃 -  x愛麗絲：我很感謝！Bob-x John ：我很感謝！注意約翰的權利：鮑勃認為很長很長一段時間，因為文本不適合連續。鮑勃 - >愛麗絲：和約翰一起檢查......愛麗絲 - >約翰：是的......約翰，你好嗎？` ` `這將產生一個流程圖：` ` `美人魚圖LR A [方形矩形]  - 鏈接文字 - > B（（圓圈））A  - > C（圓形形形形形形形形形形形形形形形形形形形形形形形形矩形）乙- > d {菱形}℃ - > d ` ` `                                                                                                                                                    
 
 
 
 
 
-這將產生一個流程圖：
+      
 
-```美人魚
-圖LR 
-A [方形矩形]  - 鏈接文字 - > B（（圓圈））
-A  - > C（圓形矩形）
-B  - > D {菱形} 
-C  - > D```
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzExMjk4Ml19
+eyJoaXN0b3J5IjpbMTA5MjExMTE2XX0=
 -->
