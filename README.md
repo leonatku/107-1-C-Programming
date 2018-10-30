@@ -13,12 +13,19 @@ Practice after class
 [*welcome.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/Welcome.cpp)
 ```
 Welcome to C Programming.
-My name is 陳ㄗ
+My name: 陳姿霖.
 ```
 [*Temperture Convert.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/temconvert.cpp)
-
+```
+Enter temperature in C: 20.5 
+20.5 C = 68.9 F 
+Enter temperature in F: 80.5 
+80.5 F = 26.9 C
+```
 [*Equations.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/Equations.cpp)
+```
 
+```
 ## W02
 *Leap year.cpp
 *Seconds convert to hh:mm:ss.cpp
@@ -54,6 +61,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzI5Njg5MywxMDUzMjE3MjYxLC0xNz
-kzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbMjY2MzIyNDUyLDEwNTMyMTcyNjEsLTE3OT
+M3MDg5MDldfQ==
 -->
