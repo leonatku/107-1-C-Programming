@@ -11,10 +11,9 @@ Practice after class
 
 ## W01
 [*welcome.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/Welcome.cpp)
-、、、、
-Welcome
-、、、、
-*Temperture Convert.cpp
+
+[*Temperture Convert.cpp]
+9
 *Equations.cpp
 
 W02
@@ -52,6 +51,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI4NzI2NTksMTA1MzIxNzI2MSwtMT
-c5MzcwODkwOV19
+eyJoaXN0b3J5IjpbNjA5MTc1MjI0LDEwNTMyMTcyNjEsLTE3OT
+M3MDg5MDldfQ==
 -->
