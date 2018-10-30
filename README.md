@@ -99,6 +99,12 @@ Your BMI=18.4
 Enter your height:160
 Enter your weight:52
 Your BMI=20.3
+您的體重正常!
+
+Enter your height:165
+Enter your weight:70
+Your BMI=25.7
+
 
 ```
 
@@ -127,6 +133,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzU5MjM1NiwzMDg2NDE0NjEsMTA1Mz
+eyJoaXN0b3J5IjpbLTI0NzA4NjA1NSwzMDg2NDE0NjEsMTA1Mz
 IxNzI2MSwtMTc5MzcwODkwOV19
 -->
