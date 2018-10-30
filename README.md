@@ -52,13 +52,29 @@ Enter seconds: 20000
 ## W03
 [*Leap year (while).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/Leap%20year%20using%20while%20loop)
 ```
+Enter year: 2000 
+Year 2000 is a leap year. 
+Enter year: 2018 
+Year 2018 is not a leap year. 
+Enter year: 2020 
+Year 2020 is a leap year. 
+Enter year: 2100 
+Year 2100 is not a leap year. 
+Enter year: -1
+
 ```
 [*Seconds (while).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/seconds%20(while)%20.cpp)
 ```
+
 ```
 [*sum(n1,n2).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/sum%20(n1%2Cn2).cpp)
 ```
+
+```
 [*BMI.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/BMI.cpp)
+```
+
+```
 
 W04
 *Main menu.cpp
@@ -85,6 +101,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MzYyNTk3LDEwNTMyMTcyNjEsLTE3OT
-M3MDg5MDldfQ==
+eyJoaXN0b3J5IjpbLTk0ODMwNzAzMiwxMDUzMjE3MjYxLC0xNz
+kzNzA4OTA5XX0=
 -->
