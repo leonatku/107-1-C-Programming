@@ -44,7 +44,12 @@ Enter year: 2100
 Year 2100 is not a leap year.
 ```
 
-[*Seconds convert to hh:mm:ss.cpp](
+[*Seconds convert to hh:mm:ss.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w02/seconds.cpp)
+```
+
+```
+
+
 
 W03
 *Leap year (while).cpp
@@ -77,6 +82,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3NjU2NTc5LDEwNTMyMTcyNjEsLTE3OT
-M3MDg5MDldfQ==
+eyJoaXN0b3J5IjpbLTEzNjYxOTI2ODksMTA1MzIxNzI2MSwtMT
+c5MzcwODkwOV19
 -->
