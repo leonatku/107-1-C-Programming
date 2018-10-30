@@ -11,8 +11,10 @@ Practice after class
 
 ## W01
 [*welcome.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/Welcome.cpp)
-''''
-
+```
+Welcome to C Programming.
+My name is 陳ㄗ
+```
 [*Temperture Convert.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/temconvert.cpp)
 
 [*Equations.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/Equations.cpp)
@@ -52,6 +54,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjQzMjQ0NywxMDUzMjE3MjYxLC0xNz
+eyJoaXN0b3J5IjpbMTIzNzI5Njg5MywxMDUzMjE3MjYxLC0xNz
 kzNzA4OTA5XX0=
 -->
