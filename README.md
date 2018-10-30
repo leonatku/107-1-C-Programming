@@ -65,11 +65,23 @@ Enter year: -1
 ```
 [*Seconds (while).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/seconds%20(while)%20.cpp)
 ```
+Enter seconds: 20000 
+20000 seconds = 05:33:20 
+Enter seconds: 10000 
+10000 seconds = 02:46:40 
+Enter seconds: 30000 
+30000 seconds = 08:20:00 
+Enter seconds: 100000 
+100000 seconds = 27:46:40 
+Enter seconds: -1
 
 ```
 [*sum(n1,n2).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/sum%20(n1%2Cn2).cpp)
 ```
-
+Enter n1 n2: 1 10 
+sum(1,10) = 55
+ Enter n1 n2: 5 10 
+ sum(5,10) = 45 Enter n1 n2: 10 100 sum(10,100) = 5005 Enter n1 n2: 50 100 sum(50,100) = 3825 Enter n1 n2: -1 -1
 ```
 [*BMI.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/BMI.cpp)
 ```
@@ -101,6 +113,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODMwNzAzMiwxMDUzMjE3MjYxLC0xNz
-kzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbLTIwMjk5MzM2MTUsMTA1MzIxNzI2MSwtMT
+c5MzcwODkwOV19
 -->
