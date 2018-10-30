@@ -80,8 +80,14 @@ Enter seconds: -1
 ```
 Enter n1 n2: 1 10 
 sum(1,10) = 55
- Enter n1 n2: 5 10 
- sum(5,10) = 45 Enter n1 n2: 10 100 sum(10,100) = 5005 Enter n1 n2: 50 100 sum(50,100) = 3825 Enter n1 n2: -1 -1
+Enter n1 n2: 5 10 
+sum(5,10) = 45
+Enter n1 n2: 10 100 
+sum(10,100) = 5005 
+Enter n1 n2: 50 100 
+sum(50,100) = 3825 
+Enter n1 n2: -1 -1
+  
 ```
 [*BMI.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/BMI.cpp)
 ```
@@ -113,6 +119,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk5MzM2MTUsMTA1MzIxNzI2MSwtMT
-c5MzcwODkwOV19
+eyJoaXN0b3J5IjpbMzA4NjQxNDYxLDEwNTMyMTcyNjEsLTE3OT
+M3MDg5MDldfQ==
 -->
