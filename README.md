@@ -24,10 +24,15 @@ Enter temperature in F: 80.5
 ```
 [*Equations.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/Equations.cpp)
 ```
-
+Enter a b c: 2 -3 1 
+For equation 2 x^2 -3 x + 1 =0, 
+two roots are x1 = 1.0 x2 = 0.5
 ```
 ## W02
-*Leap year.cpp
+[*Leap year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w02/leap%20year)
+```
+
+```
 *Seconds convert to hh:mm:ss.cpp
 
 W03
@@ -61,6 +66,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MzIyNDUyLDEwNTMyMTcyNjEsLTE3OT
-M3MDg5MDldfQ==
+eyJoaXN0b3J5IjpbLTE5MDEyMDc5OSwxMDUzMjE3MjYxLC0xNz
+kzNzA4OTA5XX0=
 -->
