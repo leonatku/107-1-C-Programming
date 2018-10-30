@@ -91,7 +91,7 @@ Enter n1 n2: -1 -1
 ```
 [*BMI.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/BMI.cpp)
 ```
-
+Eㄍ
 ```
 
 W04
@@ -119,6 +119,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4NjQxNDYxLDEwNTMyMTcyNjEsLTE3OT
-M3MDg5MDldfQ==
+eyJoaXN0b3J5IjpbLTE5ODY3OTE5MjMsMzA4NjQxNDYxLDEwNT
+MyMTcyNjEsLTE3OTM3MDg5MDldfQ==
 -->
