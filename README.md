@@ -1,7 +1,7 @@
 # 107-1-C-Programming
 
 
-##Practice after class
+Practice after class
 *Four Vertical Triangles.cpp
 *test practice 1.cpp
 *test practice 2.cpp
@@ -49,5 +49,5 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjUzNjA1MV19
+eyJoaXN0b3J5IjpbLTE3OTM3MDg5MDldfQ==
 -->
