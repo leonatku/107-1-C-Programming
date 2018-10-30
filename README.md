@@ -50,10 +50,10 @@ Enter seconds: 20000
  20000 seconds = 05:33:20
 ```
 ## W03
-[*Leap year (while).cpp](
-*Seconds (while).cpp
-*sum(n1,n2).cpp
-*BMI.cpp
+[*Leap year (while).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/Leap%20year%20using%20while%20loop)
+[*Seconds (while).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w03/seconds%20(while)%20.cpp)
+[*sum(n1,n2).cpp]
+[*BMI.cpp]
 
 W04
 *Main menu.cpp
@@ -80,6 +80,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTUzNjk2NywxMDUzMjE3MjYxLC0xNz
-kzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbNDA2NTgxNTY3LDEwNTMyMTcyNjEsLTE3OT
+M3MDg5MDldfQ==
 -->
