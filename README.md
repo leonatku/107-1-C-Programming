@@ -31,9 +31,20 @@ two roots are x1 = 1.0 x2 = 0.5
 ## W02
 [*Leap year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w02/leap%20year)
 ```
+Enter year: 2000
+Year 2000 is a leap year.
 
+Enter year: 2018
+Year 2018 is not a leap year.
+
+Enter year: 2020
+Year 2020 is a leap year.
+
+Enter year: 2100
+Year 2100 is not a leap year.
 ```
-*Seconds convert to hh:mm:ss.cpp
+
+[*Seconds convert to hh:mm:ss.cpp](
 
 W03
 *Leap year (while).cpp
@@ -66,6 +77,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDEyMDc5OSwxMDUzMjE3MjYxLC0xNz
-kzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbNzE3NjU2NTc5LDEwNTMyMTcyNjEsLTE3OT
+M3MDg5MDldfQ==
 -->
