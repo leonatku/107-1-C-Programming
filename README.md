@@ -46,13 +46,11 @@ Year 2100 is not a leap year.
 
 [*Seconds convert to hh:mm:ss.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w02/seconds.cpp)
 ```
-
+Enter seconds: 20000
+ 20000 seconds = 05:33:20
 ```
-
-
-
-W03
-*Leap year (while).cpp
+## W03
+[*Leap year (while).cpp](
 *Seconds (while).cpp
 *sum(n1,n2).cpp
 *BMI.cpp
@@ -82,6 +80,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjYxOTI2ODksMTA1MzIxNzI2MSwtMT
-c5MzcwODkwOV19
+eyJoaXN0b3J5IjpbLTc5MTUzNjk2NywxMDUzMjE3MjYxLC0xNz
+kzNzA4OTA5XX0=
 -->
