@@ -307,12 +307,18 @@ Enter n1 n2: -1 -1
 ## W08
 [*魔方陣 -- magic_diag(m, N), magic_knight(m, N).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w08/%E9%AD%94%E6%96%B9%E9%99%A3%20--%20magic_diag(m%2C%20N)%2C%20magic_knight(m%2C%20N))
 ```
-
+Diagonal Move 
+11 18 25  2  9
+10 12 19 21  3 
+ 4  6 13 20 22 
+23  5  7 14 16 
+17 24  1  8 15 
+Knight Move 17 6 25 14 3 11 5 19 8 22 10 24 13 2 16 4 18 7 21 15 23 12 1 20 9
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcyOTE1NCwxNzM2MDYyMTc2LDMwOD
+eyJoaXN0b3J5IjpbLTgzMDQ0MDcwOCwxNzM2MDYyMTc2LDMwOD
 Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
