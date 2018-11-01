@@ -244,11 +244,17 @@ Main Menu
 => 3
 Enter height, width, filled: 6 2 1
 ***********
- *       *
-  *     *
-   *    
-     * *
-      *
+ *********
+  *******
+   *****
+    ***
+     *
+ Main Menu 
+19. Rectangle 
+20. 2. Vertical Triangle 
+21. 3. Tsosceles Triangle 
+22. 4. Exit 
+=> 4
 ```
 [*sum(fun).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/sum%20(fucn).cpp)
 ```
@@ -275,6 +281,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTMxMzU2NywxNzM2MDYyMTc2LDMwOD
+eyJoaXN0b3J5IjpbLTk0ODgzMDg0NiwxNzM2MDYyMTc2LDMwOD
 Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
