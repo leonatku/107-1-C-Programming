@@ -245,7 +245,10 @@ Main Menu
 Enter height, width, filled: 6 2 1
 ***********
  *       *
-  *
+  *     *
+   *    
+     * *
+      *
 ```
 [*sum(fun).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/sum%20(fucn).cpp)
 ```
@@ -272,6 +275,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDUwNjMyOSwxNzM2MDYyMTc2LDMwOD
+eyJoaXN0b3J5IjpbLTQxOTMxMzU2NywxNzM2MDYyMTc2LDMwOD
 Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
