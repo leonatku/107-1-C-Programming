@@ -140,8 +140,8 @@ Main Menu
 Enter height and type: 5 2
     *
    **
-  ***
- ****
+  * *
+ *  *
 *****
 Main Menu 
 1. Rectangle 
@@ -149,13 +149,17 @@ Main Menu
 3. Exit 
 => 2 
 Enter height and type: 5 3
-  
+ *****
+ *  *
+ * *
+ **
+ *   
 Main Menu 
 1. Rectangle 
 2. Vertical Triangle 
 3. Exit 
 => 2 
- Enter height and type: 5 4 
+Enter height and type: 5 4 
  
  Main Menu 
 1. Rectangle 
@@ -192,6 +196,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODczMzQ3MzEsMTczNjA2MjE3NiwzMD
-g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbMTc5MTQ5MDgzOSwxNzM2MDYyMTc2LDMwOD
+Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
