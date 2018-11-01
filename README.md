@@ -123,7 +123,7 @@ Enter height and width: 5 8
 ********
 Main Menu 
 4. Rectangle 
-5. Vertical Triangle
+5. Vertical Triangle 
 6. Exit 
 => 2
 Enter height and type: 5 1
@@ -131,7 +131,16 @@ Enter height and type: 5 1
 Main Menu 
 7. Rectangle 
 8. Vertical Triangle 
-9. 3. Exit => 2 Enter height and type: 5 2 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 3 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
+9. 3. Exit 
+=> 2 
+Enter height and type: 5 2
+
+Main Menu 
+10. Rectangle 
+11. 2. Vertical Triangle 
+12. 3. Exit 
+13. => 2 
+14. Enter height and type: 5 3 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
 ```
 *[menu2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/menu2)
 ```
@@ -162,6 +171,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTAxODE5NzcsMTczNjA2MjE3NiwzMD
-g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbMTEzMjYwNjkzLDE3MzYwNjIxNzYsMzA4Nj
+QxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
 -->
