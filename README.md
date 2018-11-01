@@ -296,7 +296,25 @@ Enter n1 n2: -1 -1
 ```
 [*Hanoi tower -- six functions.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Hanoi%20tower%20--%20six%20functions)
 ```
+tower1(n,from,aux,to) 
+A -> C 
+A -> B 
+C -> B 
+A -> C 
+B -> A 
+B -> C 
+A -> C 
 
+tower2(n,to,aux,from) 
+C -> A 
+C -> B 
+A -> B 
+C -> A 
+B -> C 
+B -> A 
+C -> A 
+
+tower3(n,from,to,aux) A -> B A -> C B -> C A -> B C -> A C -> B A -> B tower4(n,to,from,aux) B -> A B -> C A -> C B -> A C -> B C -> A B -> A tower5(n,aux,from,to) B -> C B -> A C -> A B -> C A -> B A -> C B -> C tower6(n,aux,to,from) C -> B C -> A B -> A C -> B A -> C A -> B C -> B
 ```
 [*Fib(n) 費氏級數.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Fib(n)%20%E8%B2%BB%E6%B0%8F%E7%B4%9A%E6%95%B8)
 ```
@@ -308,7 +326,15 @@ fib(30) = 832040
 ```
 rgcd(48,126) = 6 
 gcd(48,126) = 6 
-rgcd(48,128) = 16 gcd(48,128) = 16 rgcd(48,144) = 48 gcd(48,144) = 48 rgcd(48,48) = 48 gcd(48,48) = 48
+
+rgcd(48,128) = 16 
+gcd(48,128) = 16 
+
+rgcd(48,144) = 48 
+gcd(48,144) = 48 
+
+rgcd(48,48) = 48 
+gcd(48,48) = 48
 ```
 
 ## W08
@@ -331,6 +357,6 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY0ODg5OTUsMTczNjA2MjE3NiwzMD
-g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbMjk5NDg3MTk0LDE3MzYwNjIxNzYsMzA4Nj
+QxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
 -->
