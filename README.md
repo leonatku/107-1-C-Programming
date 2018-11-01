@@ -122,9 +122,9 @@ Enter height and width: 5 8
 *      *
 ********
 Main Menu 
-1. Rectangle 
-2. Vertical Triangle 
-3. Exit 
+4. Rectangle 
+5. Vertical Triangle 
+6. Exit 
 =>  2
 Enter height and type: 5 1
 *
@@ -133,9 +133,9 @@ Enter height and type: 5 1
 *  *
 *****
 Main Menu 
-1. Rectangle 
-2. Vertical Triangle 
-3. Exit 
+7. Rectangle 
+8. Vertical Triangle 
+9. Exit 
 =>  2 
 Enter height and type: 5 2
     *
@@ -144,9 +144,9 @@ Enter height and type: 5 2
  *  *
 *****
 Main Menu 
-1. Rectangle 
-2. Vertical Triangle 
-3. Exit 
+10. Rectangle 
+11. Vertical Triangle 
+12. Exit 
 => 2 
 Enter height and type: 5 3
  *****
@@ -155,9 +155,9 @@ Enter height and type: 5 3
  **
  *   
 Main Menu 
-1. Rectangle 
-2. Vertical Triangle 
-3. Exit 
+13. Rectangle 
+14. Vertical Triangle 
+15. Exit 
 => 2 
 Enter height and type: 5 4 
 *****
@@ -166,14 +166,20 @@ Enter height and type: 5 4
    **
     *
 Main Menu 
-1. Rectangle 
-2. Vertical Triangle 
-3. Exit 
+16. Rectangle 
+17. Vertical Triangle 
+18. Exit 
 =>  3
 ```
 *[menu2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/menu2)
 ```
-
+Main Menu 
+19. Rectangle 
+20. 2. Vertical Triangle 
+21. 3. Tsosceles Triangle 
+22. 4. Exit 
+=> 1 
+Enter height, width, filled: 5 8 0
 ```
 [*sum(fun).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/sum%20(fucn).cpp)
 ```
@@ -200,6 +206,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Nzg3ODMwMywxNzM2MDYyMTc2LDMwOD
-Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbLTE2MTczMzAxODksMTczNjA2MjE3NiwzMD
+g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
