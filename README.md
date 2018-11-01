@@ -270,25 +270,25 @@ Enter n1 n2: -1 -1
 ```
 
 ## W05
-[*menu3.cpp](
+[*menu3.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w05/menu3)
 
 ## W06
 [*days passed since Jan 1 of specific year.cpp](
 [*sorting an array.cpp](
 
 ## W07
-[*sum(n), rsum(n).cpp
-*sumodd1(n), sumodd2(n).cpp
-*Hanoi tower -- six functions.cpp
-*Fib(n) 費氏級數.cpp
-*rgcd(a,b) & gcd(a,b), a<=b.cpp
+[*sum(n), rsum(n).cpp](
+[*sumodd1(n), sumodd2(n).cpp](
+[*Hanoi tower -- six functions.cpp](
+[*Fib(n) 費氏級數.cpp](
+[*rgcd(a,b) & gcd(a,b), a<=b.cpp](
 
-W08
-*魔方陣 -- magic_diag(m, N), magic_knight(m, N).cpp
+## W08
+[*魔方陣 -- magic_diag(m, N), magic_knight(m, N).cpp](
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDYyNjMyNywxNzM2MDYyMTc2LDMwOD
-Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbLTIwNTE2MjU4NzMsMTczNjA2MjE3NiwzMD
+g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
