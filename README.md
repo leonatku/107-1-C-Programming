@@ -273,14 +273,14 @@ Enter n1 n2: -1 -1
 [*menu3.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w05/menu3)
 
 ## W06
-[*days passed since Jan 1 of specific year.cpp](
-[*sorting an array.cpp](
+[*days passed since Jan 1 of specific year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/days%20passed%20since%20Jan%201%20of%20specific%20year)
+[*sorting an array.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/sorting%20an%20array)
 
 ## W07
-[*sum(n), rsum(n).cpp](
-[*sumodd1(n), sumodd2(n).cpp](
-[*Hanoi tower -- six functions.cpp](
-[*Fib(n) 費氏級數.cpp](
+[*sum(n), rsum(n).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/sum(n)%2C%20rsum(n))
+[*sumodd1(n), sumodd2(n).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/sumodd1(n)%2C%20sumodd2(n))
+[*Hanoi tower -- six functions.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Hanoi%20tower%20--%20six%20functions)
+[*Fib(n) 費氏級數.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Fib(n)%20%E8%B2%BB%E6%B0%8F%E7%B4%9A%E6%95%B8)
 [*rgcd(a,b) & gcd(a,b), a<=b.cpp](
 
 ## W08
@@ -289,6 +289,6 @@ Enter n1 n2: -1 -1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE2MjU4NzMsMTczNjA2MjE3NiwzMD
-g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbMTUwMTI2MzI4MSwxNzM2MDYyMTc2LDMwOD
+Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
