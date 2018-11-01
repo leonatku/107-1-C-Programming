@@ -166,18 +166,18 @@ Enter height and type: 5 4
    **
     *
 Main Menu 
-16. Rectangle 
-17. Vertical Triangle 
-18. Exit 
-=>  3
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
+=> 3
 ```
 *[menu2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/menu2)
 ```
-Main Menu 
-19. Rectangle 
-20. 2. Vertical Triangle 
-21. 3. Tsosceles Triangle 
-22. 4. Exit 
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
 => 1 
 Enter height, width, filled: 5 8 0
 ********
@@ -489,6 +489,6 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM1NDY0NzcsMTczNjA2MjE3NiwzMD
-g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbNzEyNTQ4MzgzLDE3MzYwNjIxNzYsMzA4Nj
+QxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
 -->
