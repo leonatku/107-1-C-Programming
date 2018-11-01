@@ -258,18 +258,26 @@ Enter height, width, filled: 6 2 1
 ```
 [*sum(fun).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w04/sum%20(fucn).cpp)
 ```
-
+Enter n1 n2: 1 10 
+sum(1,10) = 55
+Enter n1 n2: 5 10 
+sum(5,10) = 45
+Enter n1 n2: 10 100 
+sum(10,100) = 5005 
+Enter n1 n2: 50 100 
+sum(50,100) = 3825 
+Enter n1 n2: -1 -1
 ```
 
-W05
-*menu3.cpp
+## W05
+[*menu3.cpp](
 
-W06
-*days passed since Jan 1 of specific year.cpp
-*sorting an array.cpp
+## W06
+[*days passed since Jan 1 of specific year.cpp](
+[*sorting an array.cpp](
 
-W07
-*sum(n), rsum(n).cpp
+## W07
+[*sum(n), rsum(n).cpp
 *sumodd1(n), sumodd2(n).cpp
 *Hanoi tower -- six functions.cpp
 *Fib(n) 費氏級數.cpp
@@ -281,6 +289,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODgzMDg0NiwxNzM2MDYyMTc2LDMwOD
+eyJoaXN0b3J5IjpbLTM3NDYyNjMyNywxNzM2MDYyMTc2LDMwOD
 Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
