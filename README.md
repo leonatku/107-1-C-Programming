@@ -282,7 +282,14 @@ Enter year: 2018
 Enter month and day: 10 16 
 289 days passed since 1/1/2018
 Continue (Y/N)? y 
-Enter year: 2020 Enter month and day: 3 1 61 days passed since 1/1/2020 Continue (Y/N)? y Enter year: 2100 Enter month and day: 3 1 60 days passed since 1/1/2100 Continue (Y/N)? n Process returned 0 (0x0) execution time : 57.581 s Press any key to continue.
+Enter year: 2020 
+Enter month and day: 3 1 
+61 days passed since 1/1/2020 
+Continue (Y/N)? y 
+Enter year: 2100 
+Enter month and day: 3 1 
+60 days passed since 1/1/2100 
+Continue (Y/N)? n 
 ```
 [*sorting an array.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/sorting%20an%20array)
 ```
@@ -419,6 +426,6 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzM2NDI4NiwxNzM2MDYyMTc2LDMwOD
+eyJoaXN0b3J5IjpbLTI2MjM0MTM2NSwxNzM2MDYyMTc2LDMwOD
 Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
