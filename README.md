@@ -160,8 +160,12 @@ Main Menu
 3. Exit 
 => 2 
 Enter height and type: 5 4 
- 
- Main Menu 
+*****
+ *  *
+  * *
+   **
+    *
+Main Menu 
 1. Rectangle 
 2. Vertical Triangle 
 3. Exit 
@@ -196,6 +200,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTQ5MDgzOSwxNzM2MDYyMTc2LDMwOD
+eyJoaXN0b3J5IjpbLTg3Nzg3ODMwMywxNzM2MDYyMTc2LDMwOD
 Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
