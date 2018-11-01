@@ -292,7 +292,9 @@ Enter n1 n2: -1 -1
 ```
 [*sumodd1(n), sumodd2(n).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/sumodd1(n)%2C%20sumodd2(n))
 ```
+//n is odd // sumodd1(n) = 1+3+5+...(2n-1) // sumodd2(n) = 1+3+5+...n
 
+Enter n: 5 sumodd1(5) = 25; sumodd2(5) = 9; Enter n: 9 sumodd1(9) = 81; sumodd2(9) = 25;
 ```
 [*Hanoi tower -- six functions.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Hanoi%20tower%20--%20six%20functions)
 ```
@@ -314,7 +316,41 @@ B -> C
 B -> A 
 C -> A 
 
-tower3(n,from,to,aux) A -> B A -> C B -> C A -> B C -> A C -> B A -> B tower4(n,to,from,aux) B -> A B -> C A -> C B -> A C -> B C -> A B -> A tower5(n,aux,from,to) B -> C B -> A C -> A B -> C A -> B A -> C B -> C tower6(n,aux,to,from) C -> B C -> A B -> A C -> B A -> C A -> B C -> B
+tower3(n,from,to,aux) 
+A -> B 
+A -> C 
+B -> C 
+A -> B 
+C -> A 
+C -> B 
+A -> B 
+
+tower4(n,to,from,aux) 
+B -> A 
+B -> C 
+A -> C 
+B -> A 
+C -> B 
+C -> A 
+B -> A 
+
+tower5(n,aux,from,to) 
+B -> C 
+B -> A 
+C -> A 
+B -> C 
+A -> B 
+A -> C 
+B -> C 
+
+tower6(n,aux,to,from) 
+C -> B 
+C -> A 
+B -> A 
+C -> B 
+A -> C 
+A -> B 
+C -> B
 ```
 [*Fib(n) 費氏級數.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Fib(n)%20%E8%B2%BB%E6%B0%8F%E7%B4%9A%E6%95%B8)
 ```
@@ -357,6 +393,6 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NDg3MTk0LDE3MzYwNjIxNzYsMzA4Nj
-QxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
+eyJoaXN0b3J5IjpbLTE4MTUwMjM4NTUsMTczNjA2MjE3NiwzMD
+g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
