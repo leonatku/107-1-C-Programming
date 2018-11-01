@@ -130,7 +130,7 @@ Enter height and type: 5 1
 *
 **
 * *
-*  
+*  *
 *****
 Main Menu 
 1. Rectangle 
@@ -138,7 +138,11 @@ Main Menu
 3. Exit 
 =>  2 
 Enter height and type: 5 2
-
+    *
+   **
+  ***
+ ****
+*****
 Main Menu 
 1. Rectangle 
 2. Vertical Triangle 
@@ -188,6 +192,6 @@ W08
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg0ODg0NSwxNzM2MDYyMTc2LDMwOD
-Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbLTEyODczMzQ3MzEsMTczNjA2MjE3NiwzMD
+g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
