@@ -278,11 +278,16 @@ Enter n1 n2: -1 -1
 ## W06
 [*days passed since Jan 1 of specific year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/days%20passed%20since%20Jan%201%20of%20specific%20year)
 ```
-
+Enter year: 2018 
+Enter month and day: 10 16 
+289 days passed since 1/1/2018
+Continue (Y/N)? y 
+Enter year: 2020 Enter month and day: 3 1 61 days passed since 1/1/2020 Continue (Y/N)? y Enter year: 2100 Enter month and day: 3 1 60 days passed since 1/1/2100 Continue (Y/N)? n Process returned 0 (0x0) execution time : 57.581 s Press any key to continue.
 ```
 [*sorting an array.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/sorting%20an%20array)
 ```
-
+original: 34 78 12 9 87 66 88 99 56 11 
+sorting : 9 11 12 34 56 66 78 87 88 99
 ```
 
 ## W07
@@ -414,6 +419,6 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE0NTEzNzgsMTczNjA2MjE3NiwzMD
-g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbMTQxMzM2NDI4NiwxNzM2MDYyMTc2LDMwOD
+Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
