@@ -122,10 +122,10 @@ Enter height and width: 5 8
 *      *
 ********
 Main Menu 
-4. Rectangle 
-5. Vertical Triangle 
-6. Exit 
-=>  2
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
+=> 2
 Enter height and type: 5 1
 *
 **
@@ -133,10 +133,10 @@ Enter height and type: 5 1
 *  *
 *****
 Main Menu 
-7. Rectangle 
-8. Vertical Triangle 
-9. Exit 
-=>  2 
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
+=> 2 
 Enter height and type: 5 2
     *
    **
@@ -144,9 +144,9 @@ Enter height and type: 5 2
  *  *
 *****
 Main Menu 
-10. Rectangle 
-11. Vertical Triangle 
-12. Exit 
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
 => 2 
 Enter height and type: 5 3
  *****
@@ -155,10 +155,10 @@ Enter height and type: 5 3
  **
  *   
 Main Menu 
-13. Rectangle 
-14. Vertical Triangle 
-15. Exit 
-=> 2 
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
+=>  2 
 Enter height and type: 5 4 
 *****
  *  *
@@ -315,7 +315,6 @@ Main Menu
 ```
 For timeconvert
 
-```
 Main Menu
 1. leap
 2. timeconvert
@@ -336,8 +335,7 @@ Main Menu
 1. leap
 2. timeconvert
 3. Exit
-=>
-```
+=> 3
 ```
 
 ## W06
@@ -491,6 +489,6 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MDI4ODI4LDE3MzYwNjIxNzYsMzA4Nj
-QxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
+eyJoaXN0b3J5IjpbLTIwNDM1NDY0NzcsMTczNjA2MjE3NiwzMD
+g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
