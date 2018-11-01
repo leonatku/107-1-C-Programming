@@ -299,9 +299,16 @@ Enter n1 n2: -1 -1
 
 ```
 [*Fib(n) 費氏級數.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Fib(n)%20%E8%B2%BB%E6%B0%8F%E7%B4%9A%E6%95%B8)
+```
+fib(3) = 2 
+fib(10) = 55 
+fib(30) = 832040
+```
 [*rgcd(a,b) & gcd(a,b), a<=b.cpp](
 ```
-
+rgcd(48,126) = 6 
+gcd(48,126) = 6 
+rgcd(48,128) = 16 gcd(48,128) = 16 rgcd(48,144) = 48 gcd(48,144) = 48 rgcd(48,48) = 48 gcd(48,48) = 48
 ```
 
 ## W08
@@ -317,13 +324,13 @@ Knight Move
 17  6 25 14  3 
 11  5 19  8 22
 10 24 13  2 16 
-4 18 7 21 15 
-23 12 1 20 9
+ 4 18  7 21 15 
+23 12  1 20  9
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMzU1NDIyLDE3MzYwNjIxNzYsMzA4Nj
-QxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
+eyJoaXN0b3J5IjpbLTE1ODY0ODg5OTUsMTczNjA2MjE3NiwzMD
+g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
