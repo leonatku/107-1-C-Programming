@@ -288,13 +288,34 @@ Enter n1 n2: -1 -1
 ## W07
 [*sum(n), rsum(n).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/sum(n)%2C%20rsum(n))
 ```
-
+Enter n: 10 
+sum(10)=55 
+10 
+9 
+8 
+7 
+6 
+5 
+4 
+3 
+2 
+1 
+rsum(10)=55
 ```
 [*sumodd1(n), sumodd2(n).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/sumodd1(n)%2C%20sumodd2(n))
 ```
-//n is odd // sumodd1(n) = 1+3+5+...(2n-1) // sumodd2(n) = 1+3+5+...n
+//n is odd 
+// sumodd1(n) = 1+3+5+...(2n-1)
+// sumodd2(n) = 1+3+5+...n
+```
+```
+Enter n: 5 
+sumodd1(5) = 25; 
+sumodd2(5) = 9; 
 
-Enter n: 5 sumodd1(5) = 25; sumodd2(5) = 9; Enter n: 9 sumodd1(9) = 81; sumodd2(9) = 25;
+Enter n: 9 
+sumodd1(9) = 81; 
+sumodd2(9) = 25;
 ```
 [*Hanoi tower -- six functions.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Hanoi%20tower%20--%20six%20functions)
 ```
@@ -393,6 +414,6 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTUwMjM4NTUsMTczNjA2MjE3NiwzMD
+eyJoaXN0b3J5IjpbLTE2NjE0NTEzNzgsMTczNjA2MjE3NiwzMD
 g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
