@@ -271,24 +271,48 @@ Enter n1 n2: -1 -1
 
 ## W05
 [*menu3.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w05/menu3)
+```
+
+```
 
 ## W06
 [*days passed since Jan 1 of specific year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/days%20passed%20since%20Jan%201%20of%20specific%20year)
+```
+
+```
 [*sorting an array.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/sorting%20an%20array)
+```
+
+```
 
 ## W07
 [*sum(n), rsum(n).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/sum(n)%2C%20rsum(n))
+```
+
+```
 [*sumodd1(n), sumodd2(n).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/sumodd1(n)%2C%20sumodd2(n))
+```
+
+```
 [*Hanoi tower -- six functions.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Hanoi%20tower%20--%20six%20functions)
+```
+
+```
 [*Fib(n) 費氏級數.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/Fib(n)%20%E8%B2%BB%E6%B0%8F%E7%B4%9A%E6%95%B8)
 [*rgcd(a,b) & gcd(a,b), a<=b.cpp](
+```
+
+```
 
 ## W08
-[*魔方陣 -- magic_diag(m, N), magic_knight(m, N).cpp](
+[*魔方陣 -- magic_diag(m, N), magic_knight(m, N).cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w08/%E9%AD%94%E6%96%B9%E9%99%A3%20--%20magic_diag(m%2C%20N)%2C%20magic_knight(m%2C%20N))
+```
+
+```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTI2MzI4MSwxNzM2MDYyMTc2LDMwOD
+eyJoaXN0b3J5IjpbLTE4MjcyOTE1NCwxNzM2MDYyMTc2LDMwOD
 Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
