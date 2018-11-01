@@ -313,12 +313,17 @@ Diagonal Move
  4  6 13 20 22 
 23  5  7 14 16 
 17 24  1  8 15 
-Knight Move 17 6 25 14 3 11 5 19 8 22 10 24 13 2 16 4 18 7 21 15 23 12 1 20 9
+Knight Move 
+17  6 25 14  3 
+11  5 19  8 22
+10 24 13  2 16 
+4 18 7 21 15 
+23 12 1 20 9
 ```
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDQ0MDcwOCwxNzM2MDYyMTc2LDMwOD
-Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbOTcxMzU1NDIyLDE3MzYwNjIxNzYsMzA4Nj
+QxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
 -->
