@@ -272,7 +272,72 @@ Enter n1 n2: -1 -1
 ## W05
 [*menu3.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w05/menu3)
 ```
+For leap:
 
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 1
+Enter year: 2000
+Year 2000 is a leap year.
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 1
+Enter year: 2018
+Year 2018 is not a leap year.
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 1
+Enter year: 2020
+Year 2020 is a leap year.
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 1
+Enter year: 2100
+Year 2100 is not a leap year.
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 3
+```
+```
+For timeconvert
+
+```
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 2
+Enter hh:mm:ss 10:10:10
+10:10:10 = 36610 seconds
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 2
+Enter hh:mm:ss 0:30:10
+00:30:10 = 1810 seconds
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=>
+```
 ```
 
 ## W06
@@ -426,6 +491,6 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjM0MTM2NSwxNzM2MDYyMTc2LDMwOD
-Y0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbNjk2MDI4ODI4LDE3MzYwNjIxNzYsMzA4Nj
+QxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
 -->
