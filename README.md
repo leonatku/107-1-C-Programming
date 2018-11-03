@@ -454,7 +454,7 @@ fib(3) = 2
 fib(10) = 55 
 fib(30) = 832040
 ```
-[*rgcd(a,b) & gcd(a,b), a<=b.cpp](
+[*rgcd(a,b) & gcd(a,b), a<=b.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w07/rgcd(a%2Cb)%20%26%20gcd(a%2Cb)%2C%20a%3C%3Db)
 ```
 rgcd(48,126) = 6 
 gcd(48,126) = 6 
@@ -494,6 +494,7 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY4ODU4NTksMTczNjA2MjE3NiwzMD
-g2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbNzk3NTA0NDQ2LC0xNzY2ODg1ODU5LDE3Mz
+YwNjIxNzYsMzA4NjQxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5
+MDldfQ==
 -->
