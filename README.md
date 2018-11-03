@@ -485,16 +485,16 @@ Knight Move
  4 18  7 21 15 
 23 12  1 20  9
 ```
-*test M 1
-*test M 2
-*test M 3
-*test M 4
-*test M 5
+[*test M 1](
+[*test M 2](
+[*test M 3](
+[*test M 4](
+[*test M 5](
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NTA0NDQ2LC0xNzY2ODg1ODU5LDE3Mz
-YwNjIxNzYsMzA4NjQxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5
-MDldfQ==
+eyJoaXN0b3J5IjpbMTk4Mjg3MjM5NCw3OTc1MDQ0NDYsLTE3Nj
+Y4ODU4NTksMTczNjA2MjE3NiwzMDg2NDE0NjEsMTA1MzIxNzI2
+MSwtMTc5MzcwODkwOV19
 -->
