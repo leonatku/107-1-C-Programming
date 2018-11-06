@@ -333,7 +333,7 @@ Main Menu
 3. Exit
 => 3
 ```
-## test practice
+## test practice First
 [*F1.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F1)
 [*F2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F2)
 [*F3.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F3)
@@ -486,16 +486,17 @@ Knight Move
  4 18  7 21 15 
 23 12  1 20  9
 ```
-[*test M 1](
-[*test M 2](
-[*test M 3](
-[*test M 4](
-[*test M 5](
+## test practice Second
+[* M 1](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M1)
+[* M 2](
+[* M 3](
+[* M 4](
+[* M 5](
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzcyMjE1MSwyMTM2MTg0Mjg2LDE5OD
+eyJoaXN0b3J5IjpbMTg2MzY5Mzk1MCwyMTM2MTg0Mjg2LDE5OD
 I4NzIzOTQsNzk3NTA0NDQ2LC0xNzY2ODg1ODU5LDE3MzYwNjIx
 NzYsMzA4NjQxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ
 ==
