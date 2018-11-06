@@ -3,11 +3,7 @@
 
 Practice after class
 *Four Vertical Triangles.cpp
-*test practice 1.cpp
-*test practice 2.cpp
-*test practice 3.cpp
-*test practice 4.cpp
-*test practice 5.cpp
+
 
 ## W01
 [*welcome.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w01/Welcome.cpp)
@@ -338,7 +334,11 @@ Main Menu
 => 3
 ```
 ## 第一次上機模擬考
-*
+[*test practice 1.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/Practice%20after%20class/test%20practice%201)
+[*test practice 2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/Practice%20after%20class/test%20practice%202)
+[*test practice 3.cpp](
+*test practice 4.cpp
+*test practice 5.cpp
 ## W06
 [*days passed since Jan 1 of specific year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/days%20passed%20since%20Jan%201%20of%20specific%20year)
 ```
@@ -495,7 +495,7 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDU3MzMyLDE5ODI4NzIzOTQsNzk3NT
-A0NDQ2LC0xNzY2ODg1ODU5LDE3MzYwNjIxNzYsMzA4NjQxNDYx
-LDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
+eyJoaXN0b3J5IjpbLTQxMTg0MjY0MSwxOTgyODcyMzk0LDc5Nz
+UwNDQ0NiwtMTc2Njg4NTg1OSwxNzM2MDYyMTc2LDMwODY0MTQ2
+MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
