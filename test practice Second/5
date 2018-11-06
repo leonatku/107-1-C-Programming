@@ -1,0 +1,38 @@
+#include <stdio.h>
+#include<ctype.h>
+
+void prchar(char C,int n){
+    for(int i=1;i<=n;i++)
+    printf("%c",C);
+}
+
+void drawRect(int h,int w){
+for(int i=1; i<=h; i++)
+        {
+            prchar('*',w);
+            printf("\n");}
+
+}
+
+void rdrawRect(int h,int w){
+if(h==1){
+        prchar('*',w);
+        printf("\n");}
+        else{
+        rdrawRect(h-1,w);
+            prchar('*',w);
+            printf("\n");
+        }
+
+}
+
+int main(){
+
+int height, width;
+ printf("Enter height and width: ");
+ scanf("%d %d", &height, &width);
+ printf("Draw using iteration\n");
+ drawRect(height,width);
+ printf("Draw using recursion\n"); // 用遞迴畫長方形
+ rdrawRect(height,width);
+}
