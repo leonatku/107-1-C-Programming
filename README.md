@@ -333,12 +333,12 @@ Main Menu
 3. Exit
 => 3
 ```
-## 第一次上機模擬考
+## test practice
 [*F1.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F1)
 [*F2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F2)
-[*F3.cpp]()
-[*F4.cpp]()
-[*F5.cpp]()
+[*F3.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F3)
+[*F4.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F4)
+[*F5.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F5)
 ## W06
 [*days passed since Jan 1 of specific year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/days%20passed%20since%20Jan%201%20of%20specific%20year)
 ```
@@ -495,7 +495,7 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg3MzUyMSwyMTM2MTg0Mjg2LDE5OD
+eyJoaXN0b3J5IjpbMTU4MzcyMjE1MSwyMTM2MTg0Mjg2LDE5OD
 I4NzIzOTQsNzk3NTA0NDQ2LC0xNzY2ODg1ODU5LDE3MzYwNjIx
 NzYsMzA4NjQxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ
 ==
