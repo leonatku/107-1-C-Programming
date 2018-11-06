@@ -495,14 +495,26 @@ Knight Move
 ## W09
 [*Date dates[MAX].cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w09/Date%20dates%5BMAX%5D)
 ```
-、、、
+Enter N: 10 
+
+2018/12/11 
+2011/06/08 
+2015/07/24 
+2010/06/29 
+2015/04/11 
+2017/08/08 
+2019/01/28 
+2017/03/30 
+2016/11/31 
+2015/03/25
 ```
 [*Lotto lottos[MAX].cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w09/Lotto%20lottos%5BMAX%5D)
+```
 
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY0MDEwODgsMjEzNjE4NDI4NiwxOT
-gyODcyMzk0LDc5NzUwNDQ0NiwtMTc2Njg4NTg1OSwxNzM2MDYy
-MTc2LDMwODY0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX
-0=
+eyJoaXN0b3J5IjpbOTkxMzI5MTA3LDIxMzYxODQyODYsMTk4Mj
+g3MjM5NCw3OTc1MDQ0NDYsLTE3NjY4ODU4NTksMTczNjA2MjE3
+NiwzMDg2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
