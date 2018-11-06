@@ -337,7 +337,8 @@ Main Menu
 3. Exit
 => 3
 ```
-
+## 第一次上機模擬考
+*
 ## W06
 [*days passed since Jan 1 of specific year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/days%20passed%20since%20Jan%201%20of%20specific%20year)
 ```
@@ -494,7 +495,7 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjg3MjM5NCw3OTc1MDQ0NDYsLTE3Nj
-Y4ODU4NTksMTczNjA2MjE3NiwzMDg2NDE0NjEsMTA1MzIxNzI2
-MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbLTk2NDU3MzMyLDE5ODI4NzIzOTQsNzk3NT
+A0NDQ2LC0xNzY2ODg1ODU5LDE3MzYwNjIxNzYsMzA4NjQxNDYx
+LDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ==
 -->
