@@ -487,17 +487,18 @@ Knight Move
 23 12  1 20  9
 ```
 ## test practice Second
-[* M 1](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M1)
-[* M 2](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M2)
-[* M 3](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M3)
-[* M 4](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M4)
-[* M 5](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M5)
-
+[* M 1.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M1)
+[* M 2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M2)
+[* M 3.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M3)
+[* M 4.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M4)
+[* M 5.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M5)
+## W09
+[*Date dates[MAX].cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w09/Date%20dates%5BMAX%5D)
+*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAwODQzNjQsMjEzNjE4NDI4NiwxOT
-gyODcyMzk0LDc5NzUwNDQ0NiwtMTc2Njg4NTg1OSwxNzM2MDYy
-MTc2LDMwODY0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX
-0=
+eyJoaXN0b3J5IjpbODI0MTU4Mzg0LDIxMzYxODQyODYsMTk4Mj
+g3MjM5NCw3OTc1MDQ0NDYsLTE3NjY4ODU4NTksMTczNjA2MjE3
+NiwzMDg2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
