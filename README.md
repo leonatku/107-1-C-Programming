@@ -334,11 +334,11 @@ Main Menu
 => 3
 ```
 ## 第一次上機模擬考
-[*test practice 1.cpp]()
-[*test practice 2.cpp]()
-[*test practice 3.cpp]
-[*test practice 4.cpp]()
-[*test practice 5.cpp]()
+[*F1.cpp]()
+[*F2.cpp]()
+[*F3.cpp]()
+[*F4.cpp]()
+[*F5.cpp]()
 ## W06
 [*days passed since Jan 1 of specific year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/days%20passed%20since%20Jan%201%20of%20specific%20year)
 ```
@@ -495,7 +495,8 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjE4NDI4NiwxOTgyODcyMzk0LDc5Nz
-UwNDQ0NiwtMTc2Njg4NTg1OSwxNzM2MDYyMTc2LDMwODY0MTQ2
-MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
+eyJoaXN0b3J5IjpbMTQ2NDgzMDIwMiwyMTM2MTg0Mjg2LDE5OD
+I4NzIzOTQsNzk3NTA0NDQ2LC0xNzY2ODg1ODU5LDE3MzYwNjIx
+NzYsMzA4NjQxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ
+==
 -->
