@@ -1,19 +1,1 @@
-#include<stdio.h>
 
-int main(){
-	int A,B,plus,minus,multi,divis,J;
-	printf("Enter two integers: ");
-	scanf("%d %d",&A,&B);
-	plus=A+B;
-	minus=A-B;
-	multi=A*B;
-	divis=A/B;
-	J=A%B ;
-	printf("%d + %d= %d\n",A,B,plus);
-	printf("%d - %d= %d\n",A,B,minus);
-	printf("%d * %d= %d\n",A,B,multi);
-	printf("%d / %d= %d\n",A,B,divis);
-	printf("%d %c %d= %d\n",A,'%',B,J);
-	return 0;
-
-}
