@@ -334,11 +334,11 @@ Main Menu
 => 3
 ```
 ## 第一次上機模擬考
-[*test practice 1.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/Practice%20after%20class/test%20practice%201)
-[*test practice 2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/Practice%20after%20class/test%20practice%202)
-[*test practice 3.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/Practice%20after%20class/test%20practice%203)
-[*test practice 4.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/Practice%20after%20class/test%20practice%204)
-[*test practice 5.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/Practice%20after%20class/test%20practice%205)
+[*test practice 1.cpp]()
+[*test practice 2.cpp]()
+[*test practice 3.cpp]
+[*test practice 4.cpp]()
+[*test practice 5.cpp]()
 ## W06
 [*days passed since Jan 1 of specific year.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w06/days%20passed%20since%20Jan%201%20of%20specific%20year)
 ```
@@ -495,7 +495,7 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQyMzgwOTgsMTk4Mjg3MjM5NCw3OT
-c1MDQ0NDYsLTE3NjY4ODU4NTksMTczNjA2MjE3NiwzMDg2NDE0
-NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
+eyJoaXN0b3J5IjpbMjEzNjE4NDI4NiwxOTgyODcyMzk0LDc5Nz
+UwNDQ0NiwtMTc2Njg4NTg1OSwxNzM2MDYyMTc2LDMwODY0MTQ2
+MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX0=
 -->
