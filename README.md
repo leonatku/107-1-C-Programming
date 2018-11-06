@@ -334,8 +334,8 @@ Main Menu
 => 3
 ```
 ## 第一次上機模擬考
-[*F1.cpp]()
-[*F2.cpp]()
+[*F1.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F1)
+[*F2.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20First/F2)
 [*F3.cpp]()
 [*F4.cpp]()
 [*F5.cpp]()
@@ -495,7 +495,7 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDgzMDIwMiwyMTM2MTg0Mjg2LDE5OD
+eyJoaXN0b3J5IjpbLTEwNDg3MzUyMSwyMTM2MTg0Mjg2LDE5OD
 I4NzIzOTQsNzk3NTA0NDQ2LC0xNzY2ODg1ODU5LDE3MzYwNjIx
 NzYsMzA4NjQxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ
 ==
