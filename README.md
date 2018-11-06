@@ -494,11 +494,12 @@ Knight Move
 [* M 5.cpp](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M5)
 ## W09
 [*Date dates[MAX].cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w09/Date%20dates%5BMAX%5D)
-*
+
+[*Lotto lottos[MAX].cpp](https://github.com/leonatku/1071-C-Programming/blob/master/w09/Lotto%20lottos%5BMAX%5D)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI0MTU4Mzg0LDIxMzYxODQyODYsMTk4Mj
+eyJoaXN0b3J5IjpbNTIwNDQzMjU1LDIxMzYxODQyODYsMTk4Mj
 g3MjM5NCw3OTc1MDQ0NDYsLTE3NjY4ODU4NTksMTczNjA2MjE3
 NiwzMDg2NDE0NjEsMTA1MzIxNzI2MSwtMTc5MzcwODkwOV19
 -->
