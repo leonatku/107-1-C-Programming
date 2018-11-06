@@ -488,16 +488,16 @@ Knight Move
 ```
 ## test practice Second
 [* M 1](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M1)
-[* M 2](
-[* M 3](
-[* M 4](
-[* M 5](
+[* M 2](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M2)
+[* M 3](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M3)
+[* M 4](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M4)
+[* M 5](https://github.com/leonatku/1071-C-Programming/blob/master/test%20practice%20Second/M5)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MzY5Mzk1MCwyMTM2MTg0Mjg2LDE5OD
-I4NzIzOTQsNzk3NTA0NDQ2LC0xNzY2ODg1ODU5LDE3MzYwNjIx
-NzYsMzA4NjQxNDYxLDEwNTMyMTcyNjEsLTE3OTM3MDg5MDldfQ
-==
+eyJoaXN0b3J5IjpbLTE2ODAwODQzNjQsMjEzNjE4NDI4NiwxOT
+gyODcyMzk0LDc5NzUwNDQ0NiwtMTc2Njg4NTg1OSwxNzM2MDYy
+MTc2LDMwODY0MTQ2MSwxMDUzMjE3MjYxLC0xNzkzNzA4OTA5XX
+0=
 -->
