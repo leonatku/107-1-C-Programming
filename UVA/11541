@@ -1,0 +1,52 @@
+#include<stdio.h>
+#include<string.h>
+#include<math.h>
+int main()
+{
+    int i,j,k,l,m,n,p;
+    char ch[1000],c;
+    scanf("%d",&n);
+    for(p=1; p<=n; p++)
+    {
+        scanf("%s",&ch);
+        {
+            printf("Case %d: ",p);
+            k=strlen(ch);
+            for(i=0; i<k; i++)
+            {
+                if(ch[i]>='A'&&ch[i]<='Z' && ch[i+1]>=48 && ch[i+1]<=57 &&ch[i+2]>=48 && ch[i+2]<=57 &&ch[i+3]>=48 && ch[i+3]<=57)
+                {
+                    c=ch[i];
+                    l=(((ch[i+1]-48)*100) +((ch[i+2]-48)*10)+(ch[i+3]-48));
+                    for(j=0; j<l; j++)
+                    {
+                        printf("%c",c);
+                    }
+
+                }
+                else if(ch[i]>='A'&&ch[i]<='Z' && ch[i+1]>=48 && ch[i+1]<=57 &&ch[i+2]>=48 && ch[i+2]<=57)
+                {
+                    c=ch[i];
+                    l=(((ch[i+1]-48)*10) +(ch[i+2]-48));
+                    for(j=0; j<l; j++)
+                    {
+                        printf("%c",c);
+                    }
+
+                }
+               else if(ch[i]>='A'&&ch[i]<='Z' && ch[i+1]>=48 && ch[i+1]<=57)
+                {
+                    c=ch[i];
+                    l=ch[i+1]-48;
+                    for(j=0; j<l; j++)
+                    {
+                        printf("%c",c);
+                    }
+
+                }
+            }
+         printf("\n");
+        }
+    }
+    return 0;
+}
